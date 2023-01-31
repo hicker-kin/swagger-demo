@@ -6,5 +6,5 @@ Package router 生成swagger文档
 访问：http://localhost:8080/swagger/index.html  
 
 使用方式：
-	go get -u github.com/swag-go/swag/cmd/swag
+	go get -u github.com/swag-go/swag/cmd/swag  
 	swag init -g swagger.go -o ./docs/swagger
